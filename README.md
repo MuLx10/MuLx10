@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MuLx10)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
