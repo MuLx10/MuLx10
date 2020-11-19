@@ -1,3 +1,6 @@
+![hello](https://user-images.githubusercontent.com/23444642/99658948-246c6580-2a86-11eb-95d2-f820682ed95e.gif)
+
+
 # MuLx10
 - FrontEnd | Android Developer
 - Microsoft | Open Source
@@ -14,8 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLx10&layout=compact&theme=vue-dark)
 
 </p>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
