@@ -3,7 +3,7 @@
 # MuLx10
 - FrontEnd ⚛️ | Android Developer 📱
 - Microsoft  🤩| Open Source
-- Computer Science 👨‍💻 |  loves ❤️ hackathons
+- Computer Science 👨‍💻 |  loves ❤️ hackathon
 - I'll more than happy to participate with you (yes you).
 
 
