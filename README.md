@@ -4,8 +4,7 @@
 - FrontEnd ⚛️ | Android Developer 📱
 - Microsoft  🤩| Open Source
 - Computer Science 👨‍💻 |  loves ❤️ hackathon
-- I'll more than happy to participate with you (yes you).
-
+- in constant search of a hackathon buddy
 
 ![](https://komarev.com/ghpvc/?username=MuLx10)
 
