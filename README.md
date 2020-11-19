@@ -1,5 +1,4 @@
-
-![hello](https://user-images.githubusercontent.com/23444642/99659149-701f0f00-2a86-11eb-82ce-119b02ff2bc4.gif)
+![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
 
 # MuLx10
 - FrontEnd | Android Developer
