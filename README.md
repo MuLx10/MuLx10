@@ -1,10 +1,12 @@
 ![hello](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
 
 # MuLx10
-- FrontEnd ⚛️         | Android Developer 📱
-- Microsoft  🤩       | Open Source
-- Computer Science 👨‍💻 | I ❤️ hackathons
+- FrontEnd ⚛️ | Android Developer 📱
+- Microsoft  🤩| Open Source
+- Computer Science 👨‍💻 |  loves ❤️ hackathons
 - I'll more than happy to participate with you (yes you).
+
+
 ![](https://komarev.com/ghpvc/?username=MuLx10)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
