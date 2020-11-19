@@ -8,11 +8,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<p>
 ![](https://github-readme-stats.vercel.app/api?username=MuLx10&repo=github-readme-stats&show_icons=true&theme=vue-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLx10&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLx10&layout=compact&theme=vue-dark)
+</p>
 
 
 
