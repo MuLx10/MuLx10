@@ -3,8 +3,8 @@
 # MuLx10
 - FrontEnd | Android Developer
 - Microsoft | Open Source
-- Computer Science
-
+- Computer Science | Loves participating in hackathons
+- I'll more than happy to participate with you (yes you).
 ![](https://komarev.com/ghpvc/?username=MuLx10)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
