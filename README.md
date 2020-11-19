@@ -9,7 +9,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=MuLx10&repo=github-readme-stats&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=MuLx10&repo=github-readme-stats&show_icons=true&theme=flat)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLx10&layout=compact)
 
