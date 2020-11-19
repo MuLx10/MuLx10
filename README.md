@@ -5,11 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=MuLx10)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuLx10&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=MuLx10&repo=github-readme-stats&show_icons=true&theme=flat)
+![](https://github-readme-stats.vercel.app/api?username=MuLx10&repo=github-readme-stats&show_icons=true&theme=vue-dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLx10&layout=compact)
 
