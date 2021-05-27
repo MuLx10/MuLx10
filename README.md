@@ -27,7 +27,7 @@
    <a href="https://twitter.com/nirala_mehul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MuLx10" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/mulx10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MuLx10" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/11770532/mehul-niralar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Mehul Kumar Nirala" height="30" width="40" /></a>
-   <a href="https://medium.com/@mehulnirala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@MulX10" height="30" width="40" /></a>
+   <a href="https://medium.com/@mulx10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@MulX10" height="30" width="40" /></a>
    <a href="https://www.codechef.com/users/mux11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mux11" height="30" width="40" /></a>
    <a href="https://www.hackerrank.com/mulx10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mehul" height="30" width="40" /></a>
    <a href="https://codeforces.com/profile/boto-octo-potato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sapna2001" height="30" width="40" /></a>
