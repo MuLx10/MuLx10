@@ -3,8 +3,7 @@
 # [MuLx10](https://mulx10.github.io)
 - FrontEnd ⚛️ | Android Developer 📱
 - Microsoft  🤩| Open Source
-- Computer Science 👨‍💻 |  loves ❤️ hackathon
-- in constant search of a hackathon buddy
+- Computer Science 👨‍💻 |  ❤️ hackathon
 - [MuLx10.github.io](https://mulx10.github.io)
 
 
